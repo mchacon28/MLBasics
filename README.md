@@ -1,0 +1,2 @@
+# MLbasics
+This repository covers some standard Machine Learning (ML) algorithms such as Multinomial Naive Bayes, logistic regression (mini-batch version) and One vs Rest. The goal of the repository is to implement these algoritms and some preprocessing utils needed from scratch, using only python's numpy library. The implemented algorithms will be used to classify some datasets such as iris, breast_cancer and credits.
